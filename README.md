@@ -102,22 +102,21 @@ Ensure the following tools are installed and configured before running any scrip
 ## Usage
 
 Clone the repository:
-```bash
-git clone https://github.com/yateeshchaturvedi/Automation-scripts.git
-```bash
-cd Automation-scripts
+  ```bash
+  git clone https://github.com/yateeshchaturvedi/Automation-scripts.git
+  cd Automation-scripts
 
 Navigate to the required directory:
-```bash
-cd appservice
+  ```bash
+  cd appservice
 
 Grant execute permission (if required):
-```bash
-chmod +x script-name.sh
+  ```bash
+  chmod +x script-name.sh
 
 Run the script:
-```bash
-./script-name.sh
+  ```bash
+  ./script-name.sh
 
 Some scripts may require input parameters or environment variables.
 Refer to comments inside each script for specific usage instructions.
